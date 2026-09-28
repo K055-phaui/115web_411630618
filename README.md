@@ -3,4 +3,4 @@
 
 ## Week 2 練習
 
-本週學習 Git 基礎與版本控制。git status
+本週學習 Git 基礎與版本控制。
